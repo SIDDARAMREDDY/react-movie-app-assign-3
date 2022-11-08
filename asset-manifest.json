@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SIDDARAMREDDY/react-movie-app-assign-3.git/static/css/main.10bdb152.chunk.css",
+    "main.js": "/SIDDARAMREDDY/react-movie-app-assign-3.git/static/js/main.ff3ba68f.chunk.js",
+    "main.js.map": "/SIDDARAMREDDY/react-movie-app-assign-3.git/static/js/main.ff3ba68f.chunk.js.map",
+    "runtime-main.js": "/SIDDARAMREDDY/react-movie-app-assign-3.git/static/js/runtime-main.cf7a9003.js",
+    "runtime-main.js.map": "/SIDDARAMREDDY/react-movie-app-assign-3.git/static/js/runtime-main.cf7a9003.js.map",
+    "static/js/2.a313c930.chunk.js": "/SIDDARAMREDDY/react-movie-app-assign-3.git/static/js/2.a313c930.chunk.js",
+    "static/js/2.a313c930.chunk.js.map": "/SIDDARAMREDDY/react-movie-app-assign-3.git/static/js/2.a313c930.chunk.js.map",
+    "static/js/3.138f3633.chunk.js": "/SIDDARAMREDDY/react-movie-app-assign-3.git/static/js/3.138f3633.chunk.js",
+    "static/js/3.138f3633.chunk.js.map": "/SIDDARAMREDDY/react-movie-app-assign-3.git/static/js/3.138f3633.chunk.js.map",
+    "index.html": "/SIDDARAMREDDY/react-movie-app-assign-3.git/index.html",
+    "static/css/main.10bdb152.chunk.css.map": "/SIDDARAMREDDY/react-movie-app-assign-3.git/static/css/main.10bdb152.chunk.css.map",
+    "static/js/2.a313c930.chunk.js.LICENSE.txt": "/SIDDARAMREDDY/react-movie-app-assign-3.git/static/js/2.a313c930.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf7a9003.js",
+    "static/js/2.a313c930.chunk.js",
+    "static/css/main.10bdb152.chunk.css",
+    "static/js/main.ff3ba68f.chunk.js"
+  ]
+}
